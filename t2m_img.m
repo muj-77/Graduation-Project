@@ -157,3 +157,4 @@ disp('Done: Monthly Statistical Table with Annual Summary generated.');
 % عرض الجدول وحفظه
 disp(T2M_Stats_Table);
 writetable(T2M_Stats_Table, 't2m_1.xlsx');
+
